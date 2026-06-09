@@ -37,7 +37,7 @@ Some easy steps to kick start your project:
 ## Requirements
 
 ### Design
-<img width="1185" height="814" alt="Screens" src="https://github.com/user-attachments/assets/a2f9c31c-38d0-4e56-856b-c162bfa6ff55" />
+<img width="1185" height="814" alt="Figma Preview" src="https://github.com/user-attachments/assets/65e9a270-7f08-401f-9bcc-1fc4b4b68a7a" />
 
 🎨 => [Figma file to follow colors, spacing, icons, etc here](https://www.figma.com/design/62KFvBRvs44chtjkW43z0D/iOS-tests---Mar-2026?node-id=0-1&t=yXjfpNi5UNdPllu0-1)
 
